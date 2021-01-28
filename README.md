@@ -13,3 +13,7 @@ A. The basic (demo pipeline)
 
 3. How to run
 - Run file pipelineExample.m
+
+
+B. Analysis for dataset https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4710729
+download at https://figshare.com/account/projects/97460/articles/13661030
