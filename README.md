@@ -16,4 +16,10 @@ A. The basic (demo pipeline)
 
 
 B. Analysis for dataset https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4710729
+
 download at https://figshare.com/account/projects/97460/articles/13661030
+
+
+C.Full dataset and source code for the simulated expression
+
+download at https://figshare.com/account/projects/97460/articles/13661492
